@@ -1,4 +1,4 @@
+.DS_Store
 Pipfile
 Pipfile.lock
-.DS_Store
-
+set_keys.py
