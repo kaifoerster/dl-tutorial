@@ -1,4 +1,4 @@
+.env
 .DS_Store
 Pipfile
 Pipfile.lock
-set_keys.py
